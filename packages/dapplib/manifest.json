@@ -1,0 +1,11 @@
+{
+    "name": "ConfluxtestII",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/react": true,
+        "/category/collection/entity": true,
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "single"
+    }
+}
